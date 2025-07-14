@@ -1,5 +1,5 @@
-# Vincent Zheng, vinzheng, 113469839
-# Aawab Mahmood, aamahmood, 113472709
+# Vincent Zheng
+# Aawab Mahmood
 
 import sys
 import ply.lex as lex
