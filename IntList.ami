@@ -1,0 +1,15 @@
+.static_data 2
+# CLASS: In
+# METHOD: scan_int 1M_scan_int_1:
+# METHOD: scan_float 2M_scan_float_2:
+# CLASS: Out
+# METHOD: print 3M_print_3:
+# METHOD: print 4M_print_4:
+# METHOD: print 5M_print_5:
+# METHOD: print 6M_print_6:
+# CLASS: IntList
+constructor IntList
+# METHOD: create_list 7M_create_list_7:
+# METHOD: insert 8M_insert_8:
+# METHOD: search 9M_search_9:
+# METHOD: length 10M_length_10:

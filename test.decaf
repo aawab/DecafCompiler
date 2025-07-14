@@ -1,0 +1,21 @@
+class Test {
+    Test() {
+
+    }
+    public int foo(int x, boolean y) {
+        while(y)
+            return x;
+        return 5;
+    }
+
+    public static int main(int h) {
+        int i, j, k;
+        Test x;
+        x = new Test();
+
+        if (k == j)
+            x.foo(i,true);
+
+        i = 5 + j - 5;
+    }
+}

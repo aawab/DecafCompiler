@@ -1,0 +1,66 @@
+class A {
+    int u;
+    private static boolean stuff;
+
+    public A () {
+        int i;
+        i=2;
+    }
+
+    public void tester(){
+        int ab;
+        ab = 4;
+    }
+
+    public static int testeee(int x, string y, boolean z) {
+        return 5 + 18 / 2;
+    }
+}
+
+class B extends A{
+    private A uwu;
+    public int wiuehjfw;
+    public int ow;
+
+    public void awa(int poo, string apple, string pee) {
+        int x, y, z;
+        uwu = new A();
+        x = 6;
+        x++;
+    }
+    
+
+    private int eeew(string deez) {
+        string y;
+        y = "bruh";
+        
+        if (y == "bruh") {
+            y = "pewpew";
+            y = "uwu";
+        }
+
+        return 5 + 1;
+    }
+
+    public int yz() {
+        int boob;
+        boob = 2;
+
+        while (boob == 2) {
+            boob = boob + 1;
+        }
+        return boob;
+    }
+
+    private int loool() {
+        int c;
+        int i;
+        c = 0;
+
+        for (i = 0; i < 10; i++) {
+           c = c + i; 
+        }
+
+        return c;
+    }
+}
