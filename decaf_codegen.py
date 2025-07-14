@@ -1,5 +1,5 @@
-# Vincent Zheng, vinzheng, 113469839
-# Aawab Mahmood, aamahmood, 113472709
+# Vincent Zheng
+# Aawab Mahmood
 
 # Responsible for using absmc funcs correctly to use registers, stacks, etc.
 # and build strings consisting of the program instructions\
